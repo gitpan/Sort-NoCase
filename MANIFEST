@@ -1,5 +1,5 @@
 bin/sort.pl
-CHANGES
+Changes
 lib/Sort/NoCase.pm
 Makefile.PL
 MANIFEST			This list of files
