@@ -1,6 +1,6 @@
 package Sort::NoCase;
 
-$VERSION = '0.21';
+$VERSION = '0.23';
 @EXPORT_OK = qw(sorti);
 
 use strict;
