@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-use Sort::NoCase;
+use Sort::NoCase qw(sorti);
 
 $, = "\n";
 print sorti qw(ABC def JKL ghi PQRS mno); 
